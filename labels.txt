@@ -1,0 +1,4 @@
+0 Indian
+1 Black
+2 Asian
+3 white
